@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-Filipi has a well defined purpose. He develops a systemic view of the business, regardless of the activity. He went through strategic marketing areas: product, digital and trademarketing. Along with the business vision, he is vertical in data modeling and analysis, which makes him independent and agile on BI tools, creation of models and ETL of internal data, market research and web analytics.
+Filipi has a well defined purpose. He develops a systemic view of the business, regardless of the activity. He went through strategic marketing areas: analytics, business inteligence, product, digital, ecommerce, and trademarketing. Along with the business vision, he is verticalized in data modeling and analysis, which makes him independent and agile on BI tools, creation of models and ETL of internal data, market research and web analytics.
 
 ##
 ### 🧰 Stack
