@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-Filipi has a well defined purpose. He develops a systemic view of the business, regardless of the activity. He has worked in strategic areas: analytics, business inteligence, marketing, product, digital, ecommerce, and trademarketing. Along with the business vision, he delivers a vertical knowledge about data modeling and analysis, which makes him independent and agile on BI tools, creation of models and ETL, market research and web analytics.
+Filipi has a well defined purpose. He develops a systemic and holistic view of the business, regardless of the activity. Has worked in strategic areas: analytics, business inteligence, marketing, product, digital, ecommerce, and trademarketing. Along with this business vision, delivers a vertical knowledge about data modeling and analysis, which makes him independent and agile on BI tools, creation of models and ETL, market research and web analytics.
 
 ##
 ### 🧰 Stack
@@ -10,7 +10,7 @@ I use daily: `.ipynb`, `.py`, `.sql`, `.pbi`, `.json`, `.parquet`, `.yml`, `.xls
 - ETL: Pentaho, Tableau Prep e Alteryx; ]
 - Langs: R e Python
 
-- 🔭🌱 I’m currently learning ...
+- 🔭🌱 I’m currently learning
   -   Julia
   -   Go
   -   ML
