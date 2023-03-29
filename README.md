@@ -14,6 +14,7 @@ I use daily: `.ipynb`, `.py`, `.sql`, `.pbi`, `.json`, `.parquet`, `.yml`, `.xls
   -   Julia
   -   Go
   -   ML
+  -   React (D3.js, Deck.gl)
 
 ##
 ### 📫 How to reach me
