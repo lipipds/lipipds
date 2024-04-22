@@ -6,13 +6,13 @@ Filipi has a well defined purpose. He develops a systemic and holistic view of t
 ### 🧰 Stack
 I use daily: `.ipynb`, `.py`, `.sql`, `.pbi`, `.json`, `.parquet`, `.yml`, `.xlsx`, `.R`
 
-- Viz: Power BI (M, DAX) e Tableau;
-- ETL: Pentaho, Tableau Prep e Alteryx; ]
-- Langs: R e Python
+- Viz: Power BI (M, DAX), Looker, Superset, Metabase, Plotly, Tableau...
+- ETL: Spark, Delta
+- Langs: Python, R, Go e Rust
 
 - 🔭🌱 I’m currently learning
-  -   Julia
   -   Go
+  -   Rust
   -   ML
   -   React (D3.js, Deck.gl)
 
