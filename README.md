@@ -1,25 +1,81 @@
-### Hi! 👋
+###
+💼 Meu papel como Cientista de Negócios abrange as seguintes habilidades:
 
-Filipi has a well defined purpose. He develops a systemic and holistic view of the business, regardless of the activity. Has worked in strategic areas: analytics, business inteligence, marketing, product, digital, ecommerce, and trademarketing. Along with this business vision, delivers a vertical knowledge about data modeling and analysis, which makes him independent and agile on BI tools, creation of models and ETL, market research and web analytics.
+- 🧠 Consultoria para inteligência de negócios
+- 📊 Planejamento estratégico e tático
+- 🛠️ Especialista *fullstack* em dados: analista + engenheiro + cientista
 
-##
-### 🧰 Stack
-I use daily: `.ipynb`, `.py`, `.sql`, `.pbi`, `.json`, `.parquet`, `.yml`, `.xlsx`, `.R`
+🏢 Empresas que ajudei:
 
-- Viz: Power BI (M, DAX), Looker, Superset, Metabase, Plotly, Tableau...
-- ETL: Spark, Delta
-- Langs: Python, R, Go e Rust
+- 🏥 Unimed Porto Alegre (Saúde)
+- 🏦 Agibank (Banco)
+- 🏭 Sanremo (Indústria)
+- 🎓 +A Edtech (Educação)
+- 🛍️ Grupo Lins Ferrão - Pompéia e Gang (Varejo)
 
-- 🔭🌱 I’m currently learning
-  -   Go
-  -   Rust
-  -   ML
-  -   React (D3.js, Deck.gl)
+🚀 Criei soluções como:
 
-##
-### 📫 How to reach me
+- 📈 Enriquecimento e qualidade de dados
+- 🤖 Automação de análises
+- 🌐 Extração robótica de dados não estruturados na web
+- 🗺️ Inteligência geoespacial
+- 🔮 Modelagem preditiva
+- ⚙️ Sistemas prescritivos (maximização e minimização)
+- 🎯 Embasamento estratégico à tomada de decisão
+- 📊 Estudos mercadológicos e de competitividade
 
-[![Linkedin: pereirafilipi](https://img.shields.io/badge/-pereirafilipi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pereirafilipi/)](https://www.linkedin.com/in/pereirafilipi/)
+📌 Áreas em que atuei:
+
+- 🗄️ Dados — BI e Engenharia
+- 🌍 Expansão de mercado e filiais
+- 📇 CRM e canais
+- 📈 Inteligência de vendas e mercado
+- 📊 Business Analytics
+- 🔄 Melhoria contínua e solução de problemas
+- 📢 Marketing
+- 📦 Produto
+- 💻 Comunicação e performance digital
+- 🛒 Trademarketing e merchandising
+
+🎓 Formação
+
+- 🎯 Administração de Empresas — IBGEN
+- 🛍️ Especialização em E-commerce e Marketing Digital
+- 📚 Micro formações em dados:
+
+🧪 Ciência de Dados
+
+- 📊 Data Science aplicado ao Marketing — ESPM
+- 🎓 *MITx The Analytics Edge* — Massachusetts Institute of Technology | edX
+- 💬 Processamento de Linguagem Natural (PLN) — USP ICMC
+- 🐍 Machine Learning in Python with scikit-learn — Inria
+- 📈 Análise multivariada de dados para tomada de decisões — Saint Paul Escola de Negócios 
+- 📚 Data Science & Machine Learning Path — Maven Analytics
+
+ 🔧 Engenharia de Dados
+
+- 🗄️ Data Vault no Data Lakehouse com Databricks e Delta Lake — Engenharia de Dados Academy
+- 🔄 Modelando e Construindo Pipelines de Dados com Delta Live Tables — Engenharia de Dados Academy
+- ⚡ Formação Linguagem Rust — Alura
+- 🦀 Rust: a linguagem de programação performática e segura — Alura
+- 🦀 Rust: aprenda mais sobre tipos — Alura
+
+ 📈 Negócios
+
+- 🔄 BPI — Business Process Improvement — PPG
+- 📊 Métricas de Negócios Digitais — PM3
+- 📋 Gestão de Projetos — Saint Paul Escola de Negócios
+- 🛠️ Design de Serviços — PM3
+- 🎯 A ciência e a estratégia das vendas — Escola Conquer
+
+ 📊 Análise de Dados e Dataviz
+
+- 📊 Power BI para Negócios — Xperiun | Data Analytics
+- 📐 Data Modeling for Power BI — SQLBI
+- 📈 Introducing DAX — SQLBI
+- 📊 DAT206x — Analyzing and Visualizing Data with Excel — Microsoft
+- 📊 DAT207x — Analyzing and Visualizing Data with Power BI — Microsoft
+- 🤖 RPA Solution Architect — UiPath
 
 
 <!--
