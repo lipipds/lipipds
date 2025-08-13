@@ -37,6 +37,7 @@
 - 💻 Comunicação e performance digital
 - 🛒 Trademarketing e merchandising
 
+<!--
 🎓 Formação
 
 - 🎯 Administração de Empresas — IBGEN
@@ -76,7 +77,7 @@
 - 📊 DAT206x — Analyzing and Visualizing Data with Excel — Microsoft
 - 📊 DAT207x — Analyzing and Visualizing Data with Power BI — Microsoft
 - 🤖 RPA Solution Architect — UiPath
-
+-->
 
 <!--
 ```python
